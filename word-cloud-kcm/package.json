@@ -1,0 +1,25 @@
+{
+  "name": "word-cloud-kcm",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@bundled-es-modules/axios": "^0.27.2",
+    "@vuepic/vue-datepicker": "^4.5.1",
+    "axios": "^1.3.6",
+    "element-plus": "^2.3.4",
+    "vue": "^3.2.47",
+    "vue3-datepicker": "^0.3.4",
+    "vuejs-datepicker": "^1.6.2",
+    "vuetify": "^3.1.15",
+    "vuewordcloud": "^19.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "vite": "^4.1.4"
+  }
+}
